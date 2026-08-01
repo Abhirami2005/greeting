@@ -1,0 +1,6 @@
+{
+  "name": "Friendship Day Letter",
+  "description": "A minimal, warm, and elegant interactive Friendship Day digital letter with custom memories, counter, ambient audio, and shareable greetings.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
